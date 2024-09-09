@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294673658071",
+    "project_id": "nightreadingproject",
+    "storage_bucket": "nightreadingproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294673658071:android:ec1aed9745b2bc1f11c092",
+        "android_client_info": {
+          "package_name": "com.example.nightreading"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEuldwN7fjOudX8hTmyF4QCZJu_bAddds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
